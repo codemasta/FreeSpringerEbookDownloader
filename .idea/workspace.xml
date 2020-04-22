@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbbc90ef-dde9-486b-9360-431321d49a83" name="Default Changelist" comment="Updated the requirement.txt">
+    <list default="true" id="cbbc90ef-dde9-486b-9360-431321d49a83" name="Default Changelist" comment="Renamed the names of the books file">
+      <change afterPath="$PROJECT_DIR$/DownloadedBooks/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBook_Name.csv" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBook_Names.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DownloadedBooks/Renamed" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,6 +42,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Compiler\PycharmProjects\FreeSpringerBookDownloader\DownloadedBooks\Renamed" />
+      <recent name="C:\Users\Compiler\PycharmProjects\FreeSpringerBookDownloader\DownloadedBooks" />
       <recent name="C:\Users\Compiler\PycharmProjects\FreeSpringerBookDownloader" />
     </key>
   </component>
@@ -88,6 +90,7 @@
       <workItem from="1587511028995" duration="1476000" />
       <workItem from="1587513929688" duration="2766000" />
       <workItem from="1587539181563" duration="4285000" />
+      <workItem from="1587543711438" duration="1015000" />
     </task>
     <task id="LOCAL-00001" summary="Added ebooks renaming from isbn to book name">
       <created>1587542873611</created>
@@ -96,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587542873611</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Renamed the names of the books file">
+      <created>1587543770215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587543770215</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,13 +114,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added ebooks renaming from isbn to book name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added ebooks renaming from isbn to book name" />
+    <MESSAGE value="Renamed the names of the books file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed the names of the books file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="373" y="7" key="CommitChangelistDialog2" timestamp="1587543697524">
+    <state x="373" y="7" key="CommitChangelistDialog2" timestamp="1587544770472">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="373" y="7" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1587543697524" />
+    <state x="373" y="7" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1587544770472" />
     <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1587543701695">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -147,6 +158,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1587543701695" />
+    <state x="610" y="327" key="VCS.ChangelistChooser" timestamp="1587544507008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="610" y="327" key="VCS.ChangelistChooser/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1587544507008" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1587543873859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1587543873859" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1587543711673">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -156,10 +175,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="439" y="204" key="git4idea.merge.GitPullDialog/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1587542557853" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587542555018">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587543871288">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1587542555018" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1587543871288" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587509582833" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
